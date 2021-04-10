@@ -1,0 +1,10 @@
+@font-face {
+font-family: 'Agency FB';
+font-style: normal;
+src: url('AGENCYR.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'Clarika';
+    font-style: normal;
+    src: url('ClarikaGeometric-Medium.otf') format('opentype');
+}
