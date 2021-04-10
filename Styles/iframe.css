@@ -22,7 +22,7 @@ h1{
     width: -moz-fit-content;
     margin: auto;
     margin-top: 15px;
-    font-family: 'Agency FB';
+    font-family: 'Times New Roman', Times, serif;
 }
 h1:before{
     content: '';
