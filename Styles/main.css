@@ -93,4 +93,5 @@ iframe{
     background: url("../Images/logo_animated.svg") no-repeat;
     background-size: contain;
     filter: none;
+    display: none;
 }
