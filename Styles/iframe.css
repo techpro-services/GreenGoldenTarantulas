@@ -17,6 +17,7 @@ h1{
     font-size: 50px;
     background: -webkit-linear-gradient(#25ff88, #00b050);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     width: fit-content;
     width: -moz-fit-content;
@@ -26,13 +27,12 @@ h1{
 }
 h1:before{
     content: '';
-    background: url("../Images/logo_new.svg") no-repeat;
+    background: url("../Images/spider.svg") no-repeat;
     background-size: contain;
     width: 60px;
     height: 60px;
     float: left;
     margin-right: 15px;
-    display: none;
 }
 h2{
     font-style: italic;

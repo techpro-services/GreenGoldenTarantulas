@@ -90,8 +90,7 @@ iframe{
 }
 /* Logo div */
 .logo{
-    background: url("../Images/logo_animated.svg") no-repeat;
+    background: url("../Images/spider.svg") no-repeat;
     background-size: contain;
     filter: none;
-    display: none;
 }
